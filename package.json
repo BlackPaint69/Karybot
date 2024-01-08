@@ -9,7 +9,6 @@
   "author": "By FazePainr",
   "license": "MIT",
   "dependencies": {
-    // Aquí irían las dependencias necesarias para tu chatbot, por ejemplo:
-    // "whatsapp-web.js": "^1.12.0"
+    "whatsapp-web.js": "^1.12.0"
   }
 }
