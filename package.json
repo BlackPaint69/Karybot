@@ -1,0 +1,15 @@
+{
+  "name": "Kary-bot",
+  "version": "1.0.0",
+  "description": "Chatbot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "By FazePainr",
+  "license": "MIT",
+  "dependencies": {
+    // Aquí irían las dependencias necesarias para tu chatbot, por ejemplo:
+    // "whatsapp-web.js": "^1.12.0"
+  }
+}
